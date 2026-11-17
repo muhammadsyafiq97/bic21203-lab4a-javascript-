@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Lab 4a Q1 - Interactive Text Changer</title>
+</head>
+<body>
+  <h1>Interactive Text Changer</h1>
+  <div id="myElement">
+    <p id="message">Welcome to my website!</p>
+  </div>
+  <button id="changeBtn" type="button">Change Message</button>
+
+  <script>
+    // Select the paragraph and button using DOM selection methods
+    const message = document.getElementById("message");
+    const changeBtn = document.getElementById("changeBtn");
+
+    function changeMessage() {
+      message.textContent = "Hello there!";
+    }
+
+    changeBtn.addEventListener("click", changeMessage);
+  </script>
+</body>
+</html>
