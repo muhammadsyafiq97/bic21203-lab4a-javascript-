@@ -47,6 +47,7 @@ No build step or server is needed. Open the `index.html` file in a current deskt
 Add screenshots to a `screenshots/` folder and link them here.
 
 - Q1 before click: `screenshots/q1-before.png`
+screenshots/q1-after.png
 - Q1 after click: `screenshots/q1-after.png`
 - Q2 test cases (5, 10, 15, abc, empty): `screenshots/q2-*.png`
 - Q3 after one and several clicks: `screenshots/q3-*.png`
