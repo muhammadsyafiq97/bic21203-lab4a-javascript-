@@ -44,12 +44,27 @@ No build step or server is needed. Open the `index.html` file in a current deskt
 
 ## Screenshots
 
-Add screenshots to a `screenshots/` folder and link them here.
+### Q1 - Interactive Text Changer
 
-- Q1 before click: (screenshots/q1-before.png)
-- Q1 after click: `screenshots/q1-after.png`
-- Q2 test cases (5, 10, 15, abc, empty): `screenshots/q2-*.png`
-- Q3 after one and several clicks: `screenshots/q3-*.png`
+| Before click | After click |
+| --- | --- |
+| ![Q1 before](screenshots/q1-before.png) | ![Q1 after](screenshots/q1-after.png) |
+
+### Q2 - Smart Number Validator
+
+| Input 5 | Input 10 | Input 15 |
+| --- | --- | --- |
+| ![Q2 input 5](screenshots/q2-5.png) | ![Q2 input 10](screenshots/q2-10.png) | ![Q2 input 15](screenshots/q2-15.png) |
+
+| Input abc | Empty input |
+| --- | --- |
+| ![Q2 input abc](screenshots/q2-abc.png) | ![Q2 empty input](screenshots/q2-empty.png) |
+
+### Q3 - Dynamic Number Generator
+
+| Before click | After click |
+| --- | --- |
+| ![Q3 before](screenshots/q3-before.png) | ![Q3 after](screenshots/q3-after.png) |
 
 ## Brief explanation
 
