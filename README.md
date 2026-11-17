@@ -1,7 +1,7 @@
 # BIC21203 Web Development - Lab 4a: Client-Side Scripting (JavaScript)
 
-**Name:** Syafiq
-**Student ID:** CI250113
+**Name:** Muhammad Syafiq
+**Matric No.:** CI250113
 **Programme:** Bachelor of Computer Science (Information Security), FSKTM, UTHM
 **Session:** 2026/2027
 
